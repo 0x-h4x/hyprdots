@@ -1,0 +1,6 @@
+[Added Associations]
+text/plain=code-oss.desktop;
+application/octet-stream=kitty.desktop;
+
+[Default Applications]
+application/octet-stream=kitty.desktop
