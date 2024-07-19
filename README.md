@@ -5,15 +5,22 @@
 
 Shortcuts:
 ```Super + F - FireFox
-
-Super + Q - Kitty
-
-Super + E - PcmanFM-QT
-
-Super + R - Wofi
-
+Super + Q - Kitty Terminal
+Super + E - PcmanFM-QT File manager
+Super + R - Wofi Launcher
 Super + ESC - Nwg-Bar
-PRT SCR - hyprshot -m region
+PRT SCR - hyprshot region
+SHIFT + PRT SCR - hyprshot region clipboard only
+ALT + PRT SCR - hyprshot window mode
+CONTROL + SHIFT + ESCAPE = Bashtop Taskmanager
+
+SUPER + MOUSE 1 - Move floating window
+SUPER + MOUSE 2 - Rezise floating window
+
+NVIM:
+:qw - Quit and Save (Write)
+:q - Quit (No changes)
+:q! force quit
 
 (See more in hypr/hyprland.conf)
 ```
