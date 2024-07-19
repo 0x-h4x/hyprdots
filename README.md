@@ -33,9 +33,12 @@ Kitty
 Waybar
 NWG-Bar
 hyprshot
+hypridle
 hyprlock
 brightnessctl
 neofetch
+bashtop
+code
 
 ```
 
