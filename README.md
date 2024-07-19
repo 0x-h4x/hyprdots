@@ -35,12 +35,12 @@ neofetch
 
 No code is original, just modified to fit my use.
 
+![image](https://github.com/user-attachments/assets/d3ecb34c-6fa3-4560-a157-b4ddef03b4ef)
 
-![2024-04-28-122359_hyprshot](https://github.com/HaxWire/hyprland.dotfiles/assets/19493307/8f0755c8-578e-4e88-b4b8-d314a93a8b99)
+![image](https://github.com/user-attachments/assets/0355bb85-462a-4171-91f0-e494d09158f5)
 
-![2024-04-28-122324_hyprshot](https://github.com/HaxWire/hyprland.dotfiles/assets/19493307/752ec1ab-ff6d-4ef8-8218-fa750cb5f8bf)
+![image](https://github.com/user-attachments/assets/778df587-1ac1-4164-b2da-9ec5b2b902ad)
 
-![2024-04-28-122240_hyprshot](https://github.com/HaxWire/hyprland.dotfiles/assets/19493307/74cd4d64-0a28-4c34-8729-1e82093cb673)
 
 
 
