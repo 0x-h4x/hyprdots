@@ -57,3 +57,4 @@
 .config/presets/user/preset-name.json
 /.config/font-manager
 .config/dolphinrc
+.config/QtProject.conf
