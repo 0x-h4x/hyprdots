@@ -39,7 +39,7 @@ brightnessctl
 neofetch
 bashtop
 code
-
+nerdfonts
 ```
 
 
