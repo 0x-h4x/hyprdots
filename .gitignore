@@ -1,4 +1,4 @@
-
+.bash_history
 /.cache
 /.config/discord/Cache
 /.config/Slack/Cache
@@ -7,7 +7,6 @@
 .config/baloofileinformationrc
 .bashrc
 .bash_logout
-.bash_history
 .config/bashtop/error.log
 /.config/Code - OSS
 /.config/discord
@@ -58,3 +57,7 @@
 /.config/font-manager
 .config/dolphinrc
 .config/QtProject.conf
+.oh-my-zsh/
+/.config/StardewValley
+/Desktop
+/.config/autostart
