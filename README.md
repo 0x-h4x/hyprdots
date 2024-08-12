@@ -40,6 +40,9 @@ neofetch
 bashtop
 code
 nerdfonts
+zfz
+zsh
+oh-my-zsh
 ```
 
 
