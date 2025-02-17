@@ -3,6 +3,8 @@
 
 ### minimal hyprland rice made for notebooks.
 
+Works best with archinstall.
+
 Shortcuts:
 ```Super + F - FireFox
 Super + Q - Kitty Terminal
@@ -27,6 +29,7 @@ NVIM:
 
 Packages:
 ```
+Cava
 Wofi
 PcmanFM
 Kitty
@@ -36,13 +39,15 @@ hyprshot
 hypridle
 hyprlock
 brightnessctl
+wireplumber
 neofetch
 bashtop
 code
 nerdfonts
-zfz
+fzf
 zsh
 oh-my-zsh
+dunst
 ```
 
 
