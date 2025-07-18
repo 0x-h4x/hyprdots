@@ -48,6 +48,7 @@ fzf
 zsh
 oh-my-zsh
 dunst
+nvim
 ```
 
 
