@@ -72,6 +72,6 @@ install script : (comming soon) (probaly never)
 <div align="right">
   <p><em>Star me :)</em>
   <a href="https://github.com/0x-h4x/Powershell-Collection">
-    </p> <img src="https://img.shields.io/github/stars/0x-h4x/Powershell-Collection?style=social" alt="Star on GitHub" />
+    </p> <img src="https://img.shields.io/github/stars/0x-h4x/hyprdots?style=social" alt="Star on GitHub" />
   </a>
 </div>
